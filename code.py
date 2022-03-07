@@ -1,5 +1,9 @@
+#talk about exams and practicals
+#talk about club future
+#tell about the projects
 #ask about python, ask about C, ask about universal truth
 #make interactive ask about the operators
+
 
 #operators
 print(2+3)
